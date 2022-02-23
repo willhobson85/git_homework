@@ -9,3 +9,6 @@ Strategies:
 Shoutouts:
 1. Amber for helping me with the formatting of some of my commands.
 2. Emily for helping me figure out what I was missing.
+
+Session 3:
+1. Add again
